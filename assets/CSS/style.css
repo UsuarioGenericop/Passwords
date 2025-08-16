@@ -1,6 +1,8 @@
 body {
   display: flex;
   flex-direction: column;
+  color: white;
+  background-color: black;
 }
 .selector1 {
   margin: 8px;
