@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+.selector1 {
+  margin: 8px;
+}
+.selector {
+  margin: 10px;
+}
+button {
+  display: flex;
+  max-width: fit-content;
+  margin-left: 37px;
+  margin-top: 5px;
+}
